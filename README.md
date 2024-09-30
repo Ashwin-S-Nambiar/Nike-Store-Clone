@@ -1,6 +1,6 @@
 # 👟 Nike Store Website
 
-**Live:**
+**Live: https://nike-store-clone-sooty.vercel.app/**
 
 ***A website made to practice React, CSS skills by trying to replicate a Nike Store Website. Made it responsive to screens
 of different sizes using **media queries**.*
