@@ -34,7 +34,4 @@ of different sizes using **media queries**.*
 ---
 ![localhost_5173_ (3)](https://github.com/user-attachments/assets/50bce515-e94e-4de7-b830-94e0b6a85a48)
 
-### Extra Large Screens
----
-![localhost_5173_ (4)](https://github.com/user-attachments/assets/a5e81cde-92d0-487c-870a-1fecb13c1ab1)
 
