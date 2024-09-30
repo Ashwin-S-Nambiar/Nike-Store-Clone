@@ -59,6 +59,7 @@ button {
 button:hover {
     background: transparent;
     color: var(--gray);
+    border: 1px solid var(--gray);
     transition: all 0.3s ease-in-out;
 }
 
